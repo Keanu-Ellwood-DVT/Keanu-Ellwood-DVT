@@ -2,7 +2,7 @@
 
 ```
 #Keanu-Ellwood-DVT { 
-  position: pretoria, south africa; 
+  position: south africa; 
   height: 181cm; 
   display: man person; 
   background: front-end developer; 
